@@ -1,4 +1,4 @@
-import openpyxl 
+import pandas as pd
 
 # Dados
 dados = [
